@@ -1,6 +1,7 @@
 {
 	"author": "Mark",
 	"description": "A fun web application",
+	"key words": ["fun", "web", "application"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
